@@ -1,0 +1,59 @@
+{
+  "index.qmd": {
+    "index.html": "9de41a65"
+  },
+  "intro.qmd": {
+    "intro.html": "efa79380"
+  },
+  "summary.qmd": {
+    "summary.html": "3ffca73d"
+  },
+  "references.qmd": {
+    "references.html": "a6bef748"
+  },
+  "lecture_1.qmd": {
+    "lecture_1.html": "d2cbe77f"
+  },
+  "lecture_2.qmd": {
+    "lecture_2.html": "6475d681"
+  },
+  "lecture_3.qmd": {
+    "lecture_3.html": "280fc1b5"
+  },
+  "lecture_4.qmd": {
+    "lecture_4.html": "f61080a9"
+  },
+  "lecture_5.qmd": {
+    "lecture_5.html": "641e8da8"
+  },
+  "lecture_6.qmd": {
+    "lecture_6.html": "e548d32a"
+  },
+  "lecture_7.qmd": {
+    "lecture_7.html": "c07569e8"
+  },
+  "lecture_8.qmd": {
+    "lecture_8.html": "a384e62b"
+  },
+  "lecture_9.qmd": {
+    "lecture_9.html": "a468f0b0"
+  },
+  "lecture_10.qmd": {
+    "lecture_10.html": "b97c2ab5"
+  },
+  "lecture_11.qmd": {
+    "lecture_11.html": "8ade1a3e"
+  },
+  "lecture_12.qmd": {
+    "lecture_12.html": "0d57e5f1"
+  },
+  "lecture_13.qmd": {
+    "lecture_13.html": "5e175794"
+  },
+  "lecture_14.qmd": {
+    "lecture_14.html": "47cba27a"
+  },
+  "lecture_15.qmd": {
+    "lecture_15.html": "02b88835"
+  }
+}
